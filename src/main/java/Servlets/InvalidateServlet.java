@@ -1,5 +1,8 @@
 package Servlets;
 
+import Beans.SessionScopeBeans;
+
+import javax.inject.Inject;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -11,8 +14,10 @@ import java.io.Writer;
 
 @WebServlet(name = "Invalidate session servlet", urlPatterns = "/invalidate")
 public class InvalidateServlet extends HttpServlet {
+
   @Override
   protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+
     HttpSession session = req.getSession(false);
     if (session != null) {
       System.out.printf("Invalidated session with id %s%n", session.getId());

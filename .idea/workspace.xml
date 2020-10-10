@@ -8,8 +8,15 @@
   <component name="ChangeListManager">
     <list default="true" id="3f2da02d-2a4d-4141-8a05-4be89b947139" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BS/WEB-INF/classes/Beans/MySessionBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/BS/WEB-INF/classes/Beans/MySessionBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BS/WEB-INF/classes/Beans/SessionScopeBeans.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/BS/WEB-INF/classes/Beans/SessionScopeBeans.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/BS/WEB-INF/classes/Servlets/SessionServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/BS/WEB-INF/classes/Servlets/SessionServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Beans/MySessionBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Beans/MySessionBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Beans/SessionScopeBeans.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Beans/SessionScopeBeans.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Servlets/InvalidateServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Servlets/InvalidateServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Servlets/SessionServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Servlets/SessionServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Beans/MySessionBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Beans/MySessionBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Beans/SessionScopeBeans.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Beans/SessionScopeBeans.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Servlets/SessionServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Servlets/SessionServlet.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -214,7 +221,7 @@
       <updated>1602314154155</updated>
       <workItem from="1602314155357" duration="453000" />
       <workItem from="1602314753204" duration="20000" />
-      <workItem from="1602314877480" duration="1449000" />
+      <workItem from="1602314877480" duration="2091000" />
     </task>
     <servers />
   </component>

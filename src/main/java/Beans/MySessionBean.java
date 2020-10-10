@@ -1,6 +1,6 @@
 package Beans;
 
-import javax.annotation.PostConstruct;
+import javax.annotation.PreDestroy;
 import javax.enterprise.context.SessionScoped;
 import java.io.Serializable;
 
@@ -8,8 +8,12 @@ import java.io.Serializable;
 public class MySessionBean implements SessionScopeBeans, Serializable {
   final long serialVersionUID = 1L;
 
-  @PostConstruct
+  public void greetings() {
+    System.out.print("Hello from MySessionBean");
+  }
+
+  @PreDestroy
   void message() {
-    System.out.println("QQQ");
+    System.out.println("MySessionBean will be destroyed immediately...");
   }
 }
