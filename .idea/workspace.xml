@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="BS" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3f2da02d-2a4d-4141-8a05-4be89b947139" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningBuiltInScopes.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BS/WEB-INF/classes/Servlets/SessionServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/BS/WEB-INF/classes/Servlets/SessionServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Servlets/SessionServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Servlets/SessionServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Servlets/SessionServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Servlets/SessionServlet.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +28,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="false" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectId" id="1ig0v6Gk1TJk9JEg1vBojSohyUP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -201,7 +214,7 @@
       <updated>1602314154155</updated>
       <workItem from="1602314155357" duration="453000" />
       <workItem from="1602314753204" duration="20000" />
-      <workItem from="1602314877480" duration="823000" />
+      <workItem from="1602314877480" duration="1449000" />
     </task>
     <servers />
   </component>
